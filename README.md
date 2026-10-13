@@ -1,12 +1,19 @@
-# Shipping Calculator
+Please consider the below factors while contributing
 
-Starter code to calculate shipping logistics rates.
+Code Style:
+Maintain a consistent code style for readability.
 
-## Usage
-Run the script and follow the prompts to calculate shipping rates.
+Documentation:
+Ensure well-documented code for effective collaboration.
 
-## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) and our [Code of Conduct](CODE_OF_CONDUCT.md).
+Testing:
+Thoroughly test your changes before submitting a pull request.
 
-## License
-This project is licensed under the [Apache License 2.0](LICENSE).
+Issue Tracker:
+Check the Issue Tracker for tasks.
+
+Code Review:
+All contributions undergo a code review process.
+
+Licensing:
+Contributions are licensed.
